@@ -1,10 +1,6 @@
 {
-    "owners": [
-        1149300506,
-        1763665005,
-        137699342
-    ],
-    "bot_token": "5247133676:AAGn5-fAWvswYD7jmwpNOlMgtllvqkj2pTs",
+    "owners": [],
+    "bot_token": "",
     "db_url": "mongodb://localhost:27017",
     "db_name": "meliska_bot",
     "show": null,
